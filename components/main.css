@@ -1,4 +1,24 @@
-.inputbox{
-    height:50px;
-    border: 1px solid black;
+.hi{
+
+    height:80px;
+    width:25%;
+    border:0;
+    background-color: #fecea8;
+    border-radius:20px;
+}
+input{
+    border:0;
+    width:80%;
+    background-color: #fecea8;
+    outline: 0;
+    padding:15px 0;
+    margin:10px 10px;
+}
+button{
+    float:right;
+    border:0;
+    background-color: #fecea8;
+    outline: 0;
+    margin:18px 12px;
+    font-size:25px !important;
 }

@@ -1,17 +1,16 @@
 import React, { Component } from "react";
-import {inputbox} from '../'
+import {hi} from './main.css';
 class Main extends Component {
     render() {
         return (
-            <div>
-                <div className="inputbox">
 
+                <div className={hi}>
                         <input placeholder="What to search in youtube?">
                         </input>
                         <button ><i class="fa fa-search" aria-hidden="true"></i></button>
 
                 </div>
-            </div>
+
         );
     }
 }
