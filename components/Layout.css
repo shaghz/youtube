@@ -1,0 +1,21 @@
+.pull-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.h1 {
+    color:green;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+.inputbox {
+    height: 40px;
+    border: 1px solid black;
+    width:50%;
+    border-radius: 8px;
+}
+input{
+    border:0;
+    padding:6px 0;
+    margin:0 10px;
+}
